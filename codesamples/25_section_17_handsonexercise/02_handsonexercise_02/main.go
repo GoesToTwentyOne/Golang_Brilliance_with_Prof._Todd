@@ -10,10 +10,11 @@ type person struct {
 func changeme(p *person) {
 	fmt.Println("before dereferencing change me func ", p)
 	fmt.Println("before dereferencing change me func ", *p)
-	p.first = "Nihad"
-	p.last = "Hossain"
-	// not work
-	//*(p).first = "Nihad"
+	// p.first = "Nihad"
+	// p.last = "Hossain"
+
+	(*p).first = "Kent "
+	(*p).last = "Thomson"
 
 	fmt.Println("after dereferencing change me func ", p)
 	fmt.Println("after dereferencing change me func ", *p)
