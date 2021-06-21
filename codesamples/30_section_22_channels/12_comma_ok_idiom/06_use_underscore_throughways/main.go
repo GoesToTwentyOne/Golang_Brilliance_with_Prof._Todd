@@ -27,8 +27,8 @@ func received(e, o, q <-chan int) {
 			fmt.Println("even ", v)
 		case v := <-o:
 			fmt.Println("even ", v)
-			// case _, _ = <-q:
-			// 	return
+		case <-q:
+			return
 		}
 	}
 
