@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"errors"
 	"fmt"
 	"log"
 )
@@ -34,8 +33,8 @@ func main() {
 func toJSON(a interface{}) ([]byte, error) {
 	bs, err := json.Marshal(a)
 	if err != nil {
-		return []byte{}, errors.New(fmt.Sprintf("There was an error in toJSON %v", err))
-		//not convensotional use
+		return []byte{}, fmt.Errorf("json error %v ", err)
+		// //not convensotional use
 
 	}
 	return bs, nil
