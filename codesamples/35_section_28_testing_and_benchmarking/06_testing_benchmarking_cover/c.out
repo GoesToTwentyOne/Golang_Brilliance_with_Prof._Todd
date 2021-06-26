@@ -1,0 +1,9 @@
+mode: set
+github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/06_testing_benchmarking_cover/main.go:5.13,8.2 1 0
+github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/06_testing_benchmarking_cover/main.go:10.38,16.37 5 1
+github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/06_testing_benchmarking_cover/main.go:26.2,26.16 1 1
+github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/06_testing_benchmarking_cover/main.go:29.2,29.12 1 0
+github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/06_testing_benchmarking_cover/main.go:16.37,17.25 1 1
+github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/06_testing_benchmarking_cover/main.go:17.25,21.4 2 1
+github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/06_testing_benchmarking_cover/main.go:21.9,24.4 2 1
+github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/06_testing_benchmarking_cover/main.go:26.16,28.3 1 1
