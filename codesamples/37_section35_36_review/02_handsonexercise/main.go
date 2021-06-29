@@ -2,8 +2,8 @@ package starting_code
 
 import (
 	"fmt"
-	"github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/37_section35_36_review/02_handsonexercise/dog
-	"
+
+	"github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/37_section35_36_review/02_handsonexercise/dog"
 )
 
 type canine struct {
