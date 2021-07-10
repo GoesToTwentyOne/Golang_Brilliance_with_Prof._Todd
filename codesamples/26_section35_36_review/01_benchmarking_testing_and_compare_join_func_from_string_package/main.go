@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/37_section35_36_review/01_benchmarking_testing_and_compare_join_func_from_string_package/cat"
+	"github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/26_section35_36_review/01_benchmarking_testing_and_compare_join_func_from_string_package/cat"
 )
 
 const s = "My name is Nihad Hossain "
