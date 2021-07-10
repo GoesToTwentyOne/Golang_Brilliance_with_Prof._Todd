@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	mysum "github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/35_section_28_testing_and_benchmarking/03_example_testing/myaddfunc"
+	mysum "github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/24_section_28_testing_and_benchmarking/03_example_testing/myaddfunc"
 )
 
 func main() {
