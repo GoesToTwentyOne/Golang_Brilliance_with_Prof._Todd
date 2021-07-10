@@ -1,7 +1,12 @@
 # HonorableTodd_udemy_Golang_practice
 # Preferred To anybody :
 - [x] **My Learning and Review:**:
-- This course emphasis me to better skill gained. Really That was an awesome experienced, never been    before. Discus about every intermediate things. I really love this course and preferred this course to everyone who want to learn or skill of Golang.
+- This course emphasis me to better skill gained. Really That was an awesome experienced, never been    before. Discus about every intermediate fundamentals things. I really love this course and preferred this course to everyone who want to learn or skilled Google's Golang.
+- [x] **Special Thanks to Califonia State University Professor Tood Mcleod**:
+- I'm really grateful to Todd Mcleod because he gave me the coupon code for this course on Twitter.
+- This course covered another most important topic How to Succeed in Life.
+-                                                                   Regrads
+-                                                                 Md. Nihad Hossain
 # Course Outline
 # https://docs.google.com/document/d/1d6pLCMFyUfrxRlm7Wmh5LJ3yJEPBaygHHvROAwEA-10/edit?usp=sharing
 
