@@ -1,7 +1,7 @@
 # HonorableTodd_udemy_Golang_practice
 # Preferred To anybody :
 - [x] **My Learning and Review :**
-- This course emphasis me to better skill gained. Really That was an awesome experienced, never been    before. Discuss about every tiny intermediate fundamental things. I really love this course and preferred this course to everyone who want to learn or skilled Google's Golang.
+- This course emphasis me, to better skill gained. Really That was an awesome experienced, never been    before. Discuss about every tiny intermediate fundamental things. I really love this course and preferred this course to everyone who want to learn or skilled Google's Golang.
 - [x] **Special Thanks to Califonia State University Professor Tood Mcleod**:
 - I'm really grateful to Todd Mcleod because he gave me the coupon code for this course on Twitter.
 - This course covered another most important topic How to Succeed in Life.
@@ -87,15 +87,15 @@
     - go help [ flag ]
 - Go workspace
 - IDE {Integrated Development Environment}
-- Go module {dependencies management this is awesome features in golang}
+- Go module {dependencies management  is a awesome features in golang}{Secure more coding}
 - Upgrading dependencies
 - Package management {Standard library and Third party package management}
-- Entry point of a programm { func main  inside of package main entry point of a program.}
+- Entry point of a program { func main  inside of package main entry point of a program.}
 - package documentation {like package fmt inside func Println()}
 - go keywords {golang reserve words. Use this certain/specific task to finished.Golang has 25 keywords}
-- go operator {operator is a character that occured certain action.like: "4+4"--"+" an operator .It happens arithmatic logical operation add them 2 numbers.Go has 48 operator. }
-- expression {in programming an expression is a combination of one or more explicit values, constants, variables, operators, and functions that the programming language interprets and computes to produce another value. For example, 2+3 is an expression which evaluates to 5.}
-- statements {In programming expression is a standalone element of a program.A program is formed by a sequence of one or more statements.}
+- go operator {operator is a character that occured certain action.like: "4+4"--"+" an operator . It happens arithmatic logical operation add them 2 numbers. Go has 48 operators. }
+- expression {In programming, an expression is a combination of one or more explicit values, constants, variables, operators, and functions that the programming language interprets and computes to produce another value. For example, 2+3 is an expression which evaluates to 5.}
+- statements {In programming, expression is a standalone element of a program. A program is formed by a sequence of one or more statements.}
 - Go is all about types.{Bill kennedy says type is life.}
     - [x] **Primitive data types**
     - It is a basic and build in type.
@@ -104,7 +104,7 @@
         - string
         - boolean
     - [x] **Composite/Aggregate/grouping data types**
-    - aggregate of grouping differents data types
+    - aggregate or grouping differents data types
         - struct
         - pointers
         - functions
@@ -141,7 +141,7 @@
 - Interface {polymorphism}
 - struct {embeded type,anonymous struct,composite literal}
 - [x] **Pointers**
-- pointer {referencing,dereferencing,address pass to handle big value}
+- pointer {referencing,dereferencing,address pass to handle big program.}
 - [x] **Applications**
 - Application {Json,marshaling.unmarshaling,decode,encode}
 - [x] **Concurreincy and Paralallielism**
@@ -154,6 +154,10 @@
 - Error handling{log,Errors built-int,panic,recover}
 - [x] **Testing and Benchmarking**
 - Testing & Benchmarking {table test,ExampleTestXxx,TestXxx,coverage,go vet{reports suspicious constructs},c.out file,html coverage view} 
+- [x]  **Go Proverbs**
+- https://go-proverbs.github.io/
+- [x] **Every single section had couple of Hands-On Exercise.**
+- [x] **Teching Version Control System,Sorce Code Management,Software Configuration Management.**
 
 
 
