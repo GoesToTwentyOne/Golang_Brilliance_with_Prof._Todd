@@ -1,7 +1,8 @@
 # HonorableTodd_udemy_Golang_practice
 # Preferred To anybody :
 - [x] **My Learning and Review :**
-- This course emphasis me, to better skill gained. Really That was an awesome experienced, never been    before. Discuss about every tiny intermediate fundamental things. I really love this course and preferred this course to everyone who want to learn or skilled Google's Golang.
+- This course emphasis myself, to better skill gained. Really That was an awesome experienced, never been    before. Discuss about every tiny intermediate fundamental things. I really love this course and preferred this course to everyone who want to learn or skilled Google's Golang.
+- [x] **End of the course Encourage myself and sharing valuable resourse to take next steps**
 - [x] **Special Thanks to Califonia State University Professor Tood Mcleod**:
 - I'm really grateful to Todd Mcleod because he gave me the coupon code for this course on Twitter.
 - This course covered another most important topic How to Succeed in Life.
@@ -158,6 +159,7 @@
 - https://go-proverbs.github.io/
 - [x] **Every single section had couple of Hands-On Exercise.**
 - [x] **Teching Version Control System,Sorce Code Management,Software Configuration Management.**
+
 
 
 
