@@ -24,10 +24,10 @@
 - Take advantage of Multicore.
 - Fastest growing and highest paying programming language.
 - Invented by 3 geniuses [Rob Pike,Ken Thompson,Robert Geriesemer].
--[x] **How to Succeed in Life?**
+- [x] **How to Succeed in Life?**
 - Grit and perseverance -- Angela Lee Duckworth
 - Growing mind set and Fixed mindset Theory.
--[x] **Most liked and followed quotes of my teachers**
+- [x] **Most liked and followed quotes of my teachers**
 - Begin with the End Mind {set goals}
 - Put first think first {time on task}
 - Persistently,patiently you are bound to succeed.
