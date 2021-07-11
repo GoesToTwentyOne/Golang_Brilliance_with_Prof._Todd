@@ -21,11 +21,11 @@
 
 # Gwowing Mindset and Learning new things from this course :
 - [x] **Why golang**
-- Take advantage of Multicore.
+- Take advantage of Multicore CPU's.
 - Fastest growing and highest paying programming language.
 - Invented by 3 geniuses [Rob Pike,Ken Thompson,Robert Geriesemer].
 - [x] **How to Succeed in Life?**
-- Grit and perseverance -- Angela Lee Duckworth
+- Grit and Perseverance -- Angela Lee Duckworth
 - Growing mind set and Fixed mindset Theory.
 - [x] **Most liked and followed quotes of my teachers**
 - Begin with the End In Mind {set goals}
