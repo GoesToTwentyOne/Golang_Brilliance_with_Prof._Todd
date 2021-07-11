@@ -64,5 +64,33 @@
         - cat {file_name.extention}
     - Remove file or folder
         - rm -rf {file_name.extention}
-    
+- [x] **Environment Variables**
+- Variables that can be used across terminal commands are called environment variables.
+    - [x] **Environment variable consists of 2 parts:-**
+    - [x] **1. System variables:**
+    - System environment variables are globally accessed by all users its means set for everyone.
+    - [x] **2. User Variables:**
+    - User environment variables are specific only to the currently logged-in user its means set for each user.
+- Go Environment variables {go env}
+    - GOPATH {Points to your go workspace}
+    - GOROOT {Points to binary installation of golang files}
+    - GOBIN {Points to workspace binary}
+    - GOOS {operating systems}
+    - GOARCH {Go architecher}
+- Go Environment variables {go [command] }
+    - go version
+    - go env
+    - go help
+    - go fmt
+    - go run {file_name.extention}
+    - go build
+    - go help [ flag ]
+- Go workspace
+- IDE {Integrated Development Environment}
+- Go module {dependencies management this is awesome features in golang}
+- Upgrading dependencies
+- Package management {Standard library and Third party package management}
+
+
+
 
