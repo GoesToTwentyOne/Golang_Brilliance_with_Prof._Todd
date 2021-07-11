@@ -37,10 +37,32 @@
 - [x] **Official Documentation**
 - golang spec
 - effective go
-- [x] **Official Documentation**
-- golang spec
-- effective go
 - [x] **golang.org vs godoc.org**
 - golang.org [{About language},{Standard library}]
 - godoc.org [{Standard library and Third party packages}]  -[https://pkg.go.dev/]
+- [x] **Development Environment**
+- ENIAC(Electronic Numerical Integrator And Computer) computer history.
+- Terminal{Text input/output environment}
+    - [x] **MAC commands**
+    - Print Working Directory
+        - pwd
+    - List of Directories 
+        - ls
+    - List and List all
+        - ls -la
+    - Change Directory 
+        -cd 
+    - Previous Directory
+        - cd ../
+    - Make Directory {folder}
+        - mkdir {folder_name}
+    - Make File
+        - touch {file_name.extention}
+    - Write file
+        - nano {file_name.extention}
+    - Read file
+        - cat {file_name.extention}
+    - Remove file or folder
+        - rm -rf {file_name.extention}
+    
 
