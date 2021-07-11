@@ -113,22 +113,24 @@
         - slices
         - channels
         - maps
-- explore {all data types}
 - Scope of a variable {package level and function level}.
 - Import and export of golang.
 - zerro values.
 - fmt package verbs.
 - Create own type.
+- [x] **Programming Fundamentals**
 - How computer works
 - Most popular coding scheme {UTF-8}
 - Number system {binary,decimal,octal,hexadecimal}
 - Digging all types 
 - Constant,iota,bitshipting,xor operation
-- Control flow
+- [x] **Control flow**
 - for statements { Condition | ForClause | RangeClause}
 - conditional statements {if |else if | switch | select---{using channels handling}}
 - Digging {return,go,break,continue,goto,fallthrough,deffer statements}
 - {make,new,append,delete,copy,io writer,cap,len}
+- [x] **Digging all types**
+- explore {all data types}
 - Underlaying data types.
 - Type checking
 - Golang is supports OOP concept.
@@ -138,13 +140,19 @@
 - Method sets {most important quot"method set of a type determines the interfaces that the type implements"}
 - Interface {polymorphism}
 - struct {embeded type,anonymous struct,composite literal}
+- [x] **Pointers**
 - pointer {referencing,dereferencing,address pass to handle big value}
+- [x] **Applications**
 - Application {Json,marshaling.unmarshaling,decode,encode}
+- [x] **Concurreincy and Paralallielism**
 - concurrency vs paralallelism {concurrency is a design pattern and paralallelism is simultatinously execute more than one goroutines ,if your computer has 1 CPU don't possible to paralallelism}.Two more valuable quote's {Concurrency is about dealing with lots of things at once.} {Parallelism is about doing lots of things at once.}
 - handling concurrency {sync with waitgroup}
 - Building race condition {dealing race condition with sync package mutex and atomic}
+- [x] **Channels Digging**
 - channels {communicate with diffirent goroutines,buffered,unbufferd,directional,bidirectional,fan-in,fan-out}
+- [x] **Error handling**
 - Error handling{log,Errors built-int,panic,recover}
+- [x] **Testing and Benchmarking**
 - Testing & Benchmarking {table test,ExampleTestXxx,TestXxx,coverage,go vet{reports suspicious constructs},c.out file,html coverage view} 
 
 
