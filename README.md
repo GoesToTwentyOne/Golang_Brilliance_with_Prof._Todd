@@ -14,6 +14,22 @@
 - https://docs.google.com/document/d/1d6pLCMFyUfrxRlm7Wmh5LJ3yJEPBaygHHvROAwEA-10/edit?usp=sharing
 
 # Completion and certified (Certificate):
-- [x] **Persistently,passionately you are bound to succeed my one of best takeway from this course.**
+- [x] **Persistently,patiently you are bound to succeed and growing mind set, my one of best takeway from this course.**
 
 ![](codesamples/40_certificate/UC-65ad2361-1240-480b-b225-be55d0b18daa.jpg)
+
+
+# Gwowing Mindset and Learning new things from this course :
+- [x] **Why golang**
+- Take advantage of Multicore.
+- Fastest growing and highest paying programming language.
+- Invented by 3 geniuses [Rob Pike,Ken Thompson,Robert Geriesemer].
+-[x] **How to Succeed in Life?**
+- Grit and perseverance -- Angela Lee Duckworth
+- Growing mind set and Fixed mindset Theory.
+-[x] **Most liked and followed quotes of my teachers**
+- Begin with the End Mind {set goals}
+- Put first think first {time on task}
+- Persistently,patiently you are bound to succeed.
+- Drop by drop  the bucket gets filled.
+
