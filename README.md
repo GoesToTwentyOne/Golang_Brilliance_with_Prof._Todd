@@ -28,8 +28,19 @@
 - Grit and perseverance -- Angela Lee Duckworth
 - Growing mind set and Fixed mindset Theory.
 - [x] **Most liked and followed quotes of my teachers**
-- Begin with the End Mind {set goals}
+- Begin with the End In Mind {set goals}
 - Put first think first {time on task}
 - Persistently,patiently you are bound to succeed.
 - Drop by drop  the bucket gets filled.
+- [x] **Go Forums**
+- https://forum.golangbridge.org/
+- [x] **Official Documentation**
+- golang spec
+- effective go
+- [x] **Official Documentation**
+- golang spec
+- effective go
+- [x] **golang.org vs godoc.org**
+- golang.org [{About language},{Standard library}]
+- godoc.org [{Standard library and Third party packages}]  -[https://pkg.go.dev/]
 
