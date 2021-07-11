@@ -51,7 +51,7 @@
     - List and List all
         - ls -la
     - Change Directory 
-        -cd 
+        - cd 
     - Previous Directory
         - cd ../
     - Make Directory {folder}
@@ -77,7 +77,7 @@
     - GOBIN {Points to workspace binary}
     - GOOS {operating systems}
     - GOARCH {Go architecher}
-- Go Environment variables {go [command] }
+- Go Commands {go [command] }
     - go version
     - go env
     - go help
@@ -90,6 +90,63 @@
 - Go module {dependencies management this is awesome features in golang}
 - Upgrading dependencies
 - Package management {Standard library and Third party package management}
+- Entry point of a programm { func main  inside of package main entry point of a program.}
+- package documentation {like package fmt inside func Println()}
+- go keywords {golang reserve words. Use this certain/specific task to finished.Golang has 25 keywords}
+- go operator {operator is a character that occured certain action.like: "4+4"--"+" an operator .It happens arithmatic logical operation add them 2 numbers.Go has 48 operator. }
+- expression {in programming an expression is a combination of one or more explicit values, constants, variables, operators, and functions that the programming language interprets and computes to produce another value. For example, 2+3 is an expression which evaluates to 5.}
+- statements {In programming expression is a standalone element of a program.A program is formed by a sequence of one or more statements.}
+- Go is all about types.{Bill kennedy says type is life.}
+    - [x] **Primitive data types**
+    - It is a basic and build in type.
+        - int
+        - float
+        - string
+        - boolean
+    - [x] **Composite/Aggregate/grouping data types**
+    - aggregate of grouping differents data types
+        - struct
+        - pointers
+        - functions
+        - interfaces
+        - array 
+        - slices
+        - channels
+        - maps
+- explore {all data types}
+- Scope of a variable {package level and function level}.
+- Import and export of golang.
+- zerro values.
+- fmt package verbs.
+- Create own type.
+- How computer works
+- Most popular coding scheme {UTF-8}
+- Number system {binary,decimal,octal,hexadecimal}
+- Digging all types 
+- Constant,iota,bitshipting,xor operation
+- Control flow
+- for statements { Condition | ForClause | RangeClause}
+- conditional statements {if |else if | switch | select---{using channels handling}}
+- Digging {return,go,break,continue,goto,fallthrough,deffer statements}
+- {make,new,append,delete,copy,io writer,cap,len}
+- Underlaying data types.
+- Type checking
+- Golang is supports OOP concept.
+- Everything in Go is PASS BY VALUE {go proverbs}
+- Function {reuse code}
+- function practices{veriadic parameter,unfluring,anonymous func(self executing func),func expression,returning a func,callback(higherorder func),clouser,recurtion}
+- Method sets {most important quot"method set of a type determines the interfaces that the type implements"}
+- Interface {polymorphism}
+- struct {embeded type,anonymous struct,composite literal}
+- pointer {referencing,dereferencing,address pass to handle big value}
+- Application {Json,marshaling.unmarshaling,decode,encode}
+- concurrency vs paralallelism {concurrency is a design pattern and paralallelism is simultatinously execute more than one goroutines ,if your computer has 1 CPU don't possible to paralallelism}.Two more valuable quote's {Concurrency is about dealing with lots of things at once.} {Parallelism is about doing lots of things at once.}
+- handling concurrency {sync with waitgroup}
+- Building race condition {dealing race condition with sync package mutex and atomic}
+- channels {communicate with diffirent goroutines,buffered,unbufferd,directional,bidirectional,fan-in,fan-out}
+- Error handling{log,Errors built-int,panic,recover}
+- Testing & Benchmarking {table test,ExampleTestXxx,TestXxx,coverage,go vet{reports suspicious constructs},c.out file,html coverage view} 
+
 
 
 
