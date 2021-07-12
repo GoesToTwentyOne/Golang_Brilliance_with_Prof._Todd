@@ -65,6 +65,10 @@
         - cat {file_name.extention}
     - Remove file or folder
         - rm -rf {file_name.extention}
+    - Rename file
+        - mv {file_name.extention} {file_rename_name.extention}
+    - Found something
+        - {file_name.extention} | greb <found word or anything>
 - [x] **Environment Variables**
 - Variables that can be used across terminal commands are called environment variables.
     - [x] **Environment variable consists of 2 parts:-**
@@ -88,8 +92,10 @@
     - go help [ flag ]
 - Go workspace
 - IDE {Integrated Development Environment}
-- Go module {dependencies management  is a awesome features in golang}{Secure more coding}
+- Go module {dependencies management  is a awesome features in golang}{Secure more coding} https://golang.org/ref/mod. go blog-{https://blog.golang.org/using-go-modules} {https://blog.golang.org/go116-module-changes}
 - Upgrading dependencies
+- Adding dependencies
+- Project Aristotle {https://rework.withgoogle.com/print/guides/5721312655835136/}
 - Package management {Standard library and Third party package management}
 - Entry point of a program { func main  inside of package main entry point of a program.}
 - package documentation {like package fmt inside func Println()}
