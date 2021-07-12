@@ -92,7 +92,8 @@
     - go help [ flag ]
 - Go workspace
 - IDE {Integrated Development Environment}
-- Go module {dependencies management  is a awesome features in golang}{Secure more coding} https://golang.org/ref/mod. go blog-{https://blog.golang.org/using-go-modules} {https://blog.golang.org/go116-module-changes}
+- [x] **Go modules [package management] [Dependincies management]**
+- Go module {dependencies management  is a awesome features in golang}{Secure more coding} Links:{https://golang.org/ref/mod} go blog- {https://blog.golang.org/using-go-modules} {https://blog.golang.org/go116-module-changes}
 - Upgrading dependencies
 - Adding dependencies
 - Project Aristotle {https://rework.withgoogle.com/print/guides/5721312655835136/}
