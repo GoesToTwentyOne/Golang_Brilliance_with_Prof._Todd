@@ -92,14 +92,16 @@
     - go help [ flag ]
 - Go workspace
 - IDE {Integrated Development Environment}
-- [x] **Go modules [package management] [Dependincies management]**
+- [x] **Go modules [package management] [Dependencies management]**
 - Go module {dependencies management  is a awesome features in golang}{Secure more coding} Links:{https://golang.org/ref/mod} go blog- {https://blog.golang.org/using-go-modules} {https://blog.golang.org/go116-module-changes}
 - Upgrading dependencies
 - Adding dependencies
 - Project Aristotle {https://rework.withgoogle.com/print/guides/5721312655835136/}
+- Golang Mascot {https://github.com/golang/go/tree/master/doc/gopher} Renne French -{https://github.com/ashleymcnamara/gophers }{https://github.com/egonelbre/gophers }
 - Package management {Standard library and Third party package management}
 - Entry point of a program { func main  inside of package main entry point of a program.}
 - package documentation {like package fmt inside func Println()}
+- Raw string literals vs Interpreted string literals.
 - go keywords {golang reserve words. Use this certain/specific task to finished.Golang has 25 keywords}
 - go operator {operator is a character that occured certain action.like: "4+4"--"+" an operator . It happens arithmatic logical operation add them 2 numbers. Go has 48 operators. }
 - expression {In programming, an expression is a combination of one or more explicit values, constants, variables, operators, and functions that the programming language interprets and computes to produce another value. For example, 2+3 is an expression which evaluates to 5.}
