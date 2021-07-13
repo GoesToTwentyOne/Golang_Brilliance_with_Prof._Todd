@@ -129,9 +129,13 @@
 - fmt package verbs.
 - Create own type.
 - [x] **Programming Fundamentals**
-- How computer works
-- Most popular coding scheme {UTF-8}
-- Number system {binary,decimal,octal,hexadecimal}
+    - [x] **How computer works**
+    - Halloween Porch Light Concept.
+    - Alan Turing biograpy and thinking and base on it movies {https://sites.duke.edu/randomthoughts/2015/01/18/two-movies-about-alan-turing/}
+    - Generation of computers {Vaccume tube | Silicon wafer or Transistor |Integrated Curcuit(IC)| CPU's} Links:{https://www.tutorialspoint.com/computer_fundamentals/computer_generations.htm}
+    - Moore's law {https://en.wikipedia.org/wiki/Moore%27s_law}
+    - Most popular coding scheme {UTF-8}
+    - Number system {binary,decimal,octal,hexadecimal}
 - Digging all types 
 - Constant,iota,bitshipting,xor operation
 - [x] **Control flow**
