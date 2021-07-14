@@ -6,8 +6,8 @@
 - [x] **Special Thanks to Califonia State University Professor Tood Mcleod**:
 - I'm really grateful to Todd Mcleod because he gave me the coupon code for this course on Twitter.
 - This course covered another most important topic How to Succeed in Life.
-- [x]                                                               **Regrads**
-                                                               **Md. Nihad Hossain**
+- [x]                                                               Regrads
+                                                               Md. Nihad Hossain
 # Course Outline:
 - [x] **This is Tood Mcleod course outline.**
 - I'm Just share this outline my github ripo.
