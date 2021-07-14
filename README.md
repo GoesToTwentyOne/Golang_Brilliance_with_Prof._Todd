@@ -6,8 +6,8 @@
 - [x] **Special Thanks to Califonia State University Professor Tood Mcleod**:
 - I'm really grateful to Todd Mcleod because he gave me the coupon code for this course on Twitter.
 - This course covered another most important topic How to Succeed in Life.
--                                                                   Regrads
-                                                               Md. Nihad Hossain
+- [x]                                                               **Regrads**
+                                                               **Md. Nihad Hossain**
 # Course Outline:
 - [x] **This is Tood Mcleod course outline.**
 - I'm Just share this outline my github ripo.
@@ -139,6 +139,7 @@
 - Digging all types 
 - Constant,iota,bitshipting,xor operation
 - [x] **Control flow**
+- [EBNF] Extended Backus–Naur form {https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form}
 - for statements { Condition | ForClause | RangeClause}
 - conditional statements {if |else if | switch | select---{using channels handling}}
 - Digging {return,go,break,continue,goto,fallthrough,deffer statements}
@@ -147,7 +148,7 @@
 - explore {all data types}
 - Underlaying data types.
 - Type checking
-- Golang is supports OOP concept.
+- Golang is supports OOP concept. m
 - Everything in Go is PASS BY VALUE {go proverbs}
 - Function {reuse code}
 - function practices{veriadic parameter,unfluring,anonymous func(self executing func),func expression,returning a func,callback(higherorder func),clouser,recurtion}
