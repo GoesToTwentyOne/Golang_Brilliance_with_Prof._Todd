@@ -20,7 +20,7 @@
 ![](codesamples/40_certificate/UC-65ad2361-1240-480b-b225-be55d0b18daa.jpg)
 
 
-# Gwowing Mindset and Learning new things from this course :
+# Growing Mindset and Learned  things from this course :
 - [x] **Why golang**
 - Take advantage of Multicore CPU's.
 - Fastest growing and highest paying programming language.
