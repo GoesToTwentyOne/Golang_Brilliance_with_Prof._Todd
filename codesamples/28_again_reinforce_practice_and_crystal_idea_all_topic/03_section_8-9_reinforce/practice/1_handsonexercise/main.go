@@ -13,11 +13,13 @@ func main() {
 	y[1] = 55
 	fmt.Println(y)
 
-	z := []int{4, 5, 6, 7, 8, 9} // immuteable
+	z := []int{4, 5, 6, 7, 8, 9} // immutable
 	a := z
 	a[0] = 88888
 	a = append(a, 78)
 	fmt.Println(a)
 	fmt.Println(z)
+	hh := new([100]int)
+	fmt.Println(hh)
 
 }
