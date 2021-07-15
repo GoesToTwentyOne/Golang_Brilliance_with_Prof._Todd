@@ -38,9 +38,11 @@ func main() {
 	}
 	fmt.Println(m)
 	for k, v := range m {
+		fmt.Println(v.first, v.last)
 		fmt.Println("key ", k)
-		for _, val := range v.fav_ice {
-			fmt.Println(val)
+		for i, val := range v.fav_ice {
+
+			fmt.Println("\t \t", i, val)
 		}
 	}
 }
