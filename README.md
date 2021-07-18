@@ -9,7 +9,7 @@
 -                                                                   Regrads
                                                                Md. Nihad Hossain
 # Course Outline:
-- [x] **This is Tood Mcleod course outline.**
+- [x]  **This is Tood Mcleod course outline.**
 - I'm Just share this outline my github ripo.
 - [x] **Course Outline Links:**
 - https://docs.google.com/document/d/1d6pLCMFyUfrxRlm7Wmh5LJ3yJEPBaygHHvROAwEA-10/edit?usp=sharing
