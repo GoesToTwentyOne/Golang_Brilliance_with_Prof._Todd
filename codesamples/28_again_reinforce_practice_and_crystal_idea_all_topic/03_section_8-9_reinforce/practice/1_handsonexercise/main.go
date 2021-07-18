@@ -19,6 +19,7 @@ func main() {
 	a = append(a, 78)
 	fmt.Println(a)
 	fmt.Println(z)
+
 	hh := new([100]int)
 	fmt.Println(hh)
 

@@ -123,6 +123,7 @@
         - slices
         - channels
         - maps
+        - comma ok idiom.
 - Scope of a variable {package level and function level}.
 - Import and export of golang.
 - zerro values.
