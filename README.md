@@ -4,7 +4,7 @@
 - This course emphasis myself, to better skill gained. Really That was an awesome experienced, never been    before. Discuss about every tiny intermediate fundamental things. I really love this course and preferred this course to everyone who want to learn or skilled Google's Golang.
 - [x] **End of the course Encourage myself and sharing valuable resourse to take next steps**
 - [x] **Special Thanks to Califonia State University Professor Tood Mcleod**:
-- I'm really grateful to Todd Mcleod because he gave me the coupon code for this course on Twitter.
+- I'm really grateful to professor Todd Mcleod he gave me inspiration and free access oportunity this valuable course on Twitter.
 - This course covered another most important topic How to Succeed in Life.
 -                                                                   Regrads
                                                                Md. Nihad Hossain
