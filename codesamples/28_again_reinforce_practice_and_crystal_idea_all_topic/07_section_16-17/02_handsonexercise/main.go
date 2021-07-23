@@ -12,7 +12,7 @@ func changeMe(p *person) {
 	fmt.Println("before dereferencing", p.first)
 	fmt.Println("before dereferencing", p.last)
 	fmt.Println("before dereferencing", p.age)
-	(*p).first = "Nihad"
+	(*p).first = "Nihadgo "
 	//another way
 	p.last = "Hossain"
 	(*p).age = 21
