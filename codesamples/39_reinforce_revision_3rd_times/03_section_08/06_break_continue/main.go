@@ -13,7 +13,6 @@ func main() {
 			continue
 		}
 		fmt.Println(x)
-
 	}
 
 }
