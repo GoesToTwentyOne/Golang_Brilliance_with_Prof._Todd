@@ -15,7 +15,18 @@ func main() {
 	//fmt.Println(v)
 	//fmt.Println(ok)
 	//fmt.Println(x)
+	x["Otolia"] = 24
 	if v, ok := x["Uniktri"]; ok {
 		fmt.Println(v)
+	}
+	for v, k := range x {
+		fmt.Println(v, k)
+	}
+	if v, ok := x["Uniktri"]; ok {
+		fmt.Println(v)
+		delete(x, "Uniktri")
+	}
+	for v, k := range x {
+		fmt.Println(v, k)
 	}
 }
