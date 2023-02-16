@@ -2,9 +2,8 @@ package word
 
 import (
 	"fmt"
+	"pkg/mod/github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/25_section_29_handsonexercise/02_handsonerxercise_02/quote"
 	"testing"
-
-	"github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/25_section_29_handsonexercise/02_handsonerxercise_02/quote"
 )
 
 func TestUseCount(t *testing.T) {

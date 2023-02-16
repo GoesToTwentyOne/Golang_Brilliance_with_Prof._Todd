@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/26_section35_36_review/02_handsonexercise/dog"
+	"pkg/mod/github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/27_Reinforce_revision_section_30-50/13_section_28-30/07_reinforce_handsonexercise/01_handsonexercise/dog"
 )
 
 type canine struct {

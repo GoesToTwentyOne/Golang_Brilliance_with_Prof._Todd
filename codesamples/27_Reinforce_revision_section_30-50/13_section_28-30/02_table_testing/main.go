@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	mathe "github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/27_Reinforce_revision_section_30-50/13_section_28-30/02_table_testing/addmul"
+	mathe "pkg/mod/github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/27_Reinforce_revision_section_30-50/13_section_28-30/02_table_testing/addmul"
 )
 
 func main() {

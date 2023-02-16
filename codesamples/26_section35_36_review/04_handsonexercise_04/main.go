@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	"github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/26_section35_36_review/04_handsonexercise_04/mymath"
+	"pkg/mod/github.com/GoesToTwentyOne/HonorableTodd_udemy_Golang_practice/codesamples/26_section35_36_review/04_handsonexercise_04/mymath"
 )
 
 func main() {
